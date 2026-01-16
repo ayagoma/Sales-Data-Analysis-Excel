@@ -1,4 +1,5 @@
 # Sales-Data-Analysis-Excel
+[Pizza Sales Dashboard](pizza_sales_dashboard.png)
 Sales Data Analysis Using Excel with interactive dashboard ,Pivot Tables , KPIs and charts 
 Sales Data Analysis (Excel Dashboard)
 
